@@ -1256,7 +1256,7 @@ SAMS is designed as **one institutional platform**, not a collection of disconne
 
 ## 📄 License
 
-This project is developed as an academic/capstone project.
+This project is developed as an capstone project.
 
 License information will be added as the project reaches its release stage.
 
