@@ -2,8 +2,8 @@
 
 > **A secure, intelligent, and scalable academic attendance platform combining Dynamic QR authentication, AI-based face verification, and future IoT-based campus entry tracking.**
 
-[![Java](https://img.shields.io/badge/Java-21-orange?style=flat-square\&logo=openjdk)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?style=flat-square\&logo=springboot)](https://spring.io/projects/spring-boot)
+[![Java](https://img.shields.io/badge/Java-25-orange?style=flat-square\&logo=openjdk)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.1.x-brightgreen?style=flat-square\&logo=springboot)](https://spring.io/projects/spring-boot)
 [![React](https://img.shields.io/badge/React-JavaScript-61DAFB?style=flat-square&logo=react)](https://react.dev/)
 [![React Native](https://img.shields.io/badge/React%20Native-Expo-61DAFB?style=flat-square\&logo=react)](https://reactnative.dev/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17+-316192?style=flat-square\&logo=postgresql)](https://www.postgresql.org/)
@@ -955,15 +955,15 @@ smart-attendance-management-system/
 
 ## Backend
 
-| Technology      | Purpose                        |
-| --------------- | ------------------------------ |
-| Java 21         | Backend language               |
-| Spring Boot 3   | Backend framework              |
-| Spring Security | Authentication & authorization |
-| JWT             | Token authentication           |
-| Spring Data JPA | Persistence                    |
-| Hibernate       | ORM                            |
-| Maven           | Build management               |
+| Technology        | Purpose                        |
+| ----------------- | ------------------------------ |
+| Java 25           | Backend language               |
+| Spring Boot 4.1.x | Backend framework              |
+| Spring Security   | Authentication & authorization |
+| JWT               | Token authentication           |
+| Spring Data JPA   | Persistence                    |
+| Hibernate         | ORM                            |
+| Maven             | Build management               |
 
 ## Data
 
