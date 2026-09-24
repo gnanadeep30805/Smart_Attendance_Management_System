@@ -23,8 +23,8 @@ export default function FeatureCard() {
                     <div>
                         {features.map((feature) => (
                             <article key={feature.title}>
-                                <h3><Link to="/featurecard">{feature.title}</Link></h3>
-                                <p><Link to="/featurecard">{feature.description}</Link></p>
+                                <h3>{feature.title}</h3>
+                                <p>{feature.description}</p>
                             </article>
                         ))}
                     </div>  

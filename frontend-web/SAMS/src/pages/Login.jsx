@@ -26,8 +26,10 @@ export default function Login() {
                     <h1>Login</h1>
                     <form onSubmit={handleSubmit}>
 
-                        <input type="email" placeholder="Email" value={email} onChange={(e) => setEmail(e.target.value)} />
+                        <input type="email" placeholder="Email" value={email} onChange={(e) => setEmail(e.target.value)} /> 
+                        <br />
                         <input type="password" placeholder="Password" value={password} onChange={(e) => setPassword(e.target.value)} />   
+                        <br />
                         {error && <p className="error" style={{ color: 'red' }}>{error}</p>}
                         <button type="submit">Login</button>
                     </form>
