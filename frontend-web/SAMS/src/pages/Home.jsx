@@ -24,21 +24,16 @@ function Home() {
                             students, and academic records through a
                             centralized platform.
                         </p>
-
-                        <div>
-                            <Link to="/login">Login</Link>
-                            <Link to="/register">Create Account</Link>
-                        </div>
                     </div>
                 </section>
 
                 <section id="about">
                     <div>
-                        <p>ABOUT SAMS</p>
+                        <h3>ABOUT SAMS</h3>
 
-                        <h2>
+                        <h4>
                             A centralized attendance management platform
-                        </h2>
+                        </h4>
 
                         <p>
                             SAMS is designed to simplify attendance tracking,

@@ -10,7 +10,7 @@ export default function About() {
           <h1>About SAMS</h1>
           <p>
             Smart Attendance Management System helps institutions simplify attendance tracking,
-            student management, and academic operations through a centralized platform.
+            monitor student records, and improve academic operations through a secure, centralized platform.
           </p>
         </section>
       </main>

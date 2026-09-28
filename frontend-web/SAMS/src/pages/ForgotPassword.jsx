@@ -8,7 +8,7 @@ export default function ForgotPassword() {
       <main>
         <section>
           <h1>Forgot Password</h1>
-          <p>Reset flow will be added here shortly.</p>
+          <p>Reset password flow will be implemented here.</p>
         </section>
       </main>
       <Footer />
